@@ -5,3 +5,4 @@ Repositories:
 - A software package for optimising resource allocations for our diagnostic kit and integrated surveillance programme support
 - Preliminary data analysis repositories used for grant applications
 - Deep learning approach to AMR phenotypic predictions based on genomic data
+- Bayesian and machine learning approaches to support decisions for empirical treatments
